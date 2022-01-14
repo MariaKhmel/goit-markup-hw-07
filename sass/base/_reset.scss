@@ -3,6 +3,8 @@ body {
   color: var(--primary-text-color);
 
   font-family: Roboto, sans-serif;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
 }
 ul {
   list-style: none;
@@ -23,7 +25,6 @@ p {
 img {
   display: block;
 }
-
 a {
   text-decoration: none;
 }
