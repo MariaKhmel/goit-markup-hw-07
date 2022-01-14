@@ -26,10 +26,6 @@
     background-color: var(--accent-text-color);
   }
 }
-.social-links__link:hover .footer__icon,
-.social-links__link:focus .footer__icon {
-  fill: var(--secondary-accent-color);
-}
 
 .social-links__icon {
   fill: var(--icons-color);

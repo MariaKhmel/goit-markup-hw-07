@@ -23,12 +23,11 @@
   text-decoration: none;
 }
 
-.logo__studio {
-  color: var(--accent-text-color);
-}
+.logo__studio,
 .navigation__logo--accent {
   color: var(--accent-text-color);
 }
+
 .logo__accent {
   color: var(--secondary-accent-color);
 }
